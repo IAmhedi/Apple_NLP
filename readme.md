@@ -19,7 +19,7 @@ You can find the docx file used in this notebook.
 apple.docx
 ```
 
-### Installing librabries
+### Installing librabries Python
 
 For this notebook you need three modules : docx2python, nltk and wordcloud.
 
